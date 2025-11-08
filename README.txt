@@ -1,4 +1,4 @@
-# Quiz Builder — Ready Submission
+# event management system — Ready Submission
 
 ## Files
 - `Dockerfile.backend` — Spring Boot backend
